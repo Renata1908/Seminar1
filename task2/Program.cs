@@ -29,9 +29,9 @@ else if(number == 7)
 {
 Console.WriteLine("Воскресение ");
 }
-
-else {
+else 
+{
  Console.WriteLine("Некорректное число ");
-   
 }
+
 
